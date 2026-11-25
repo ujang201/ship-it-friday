@@ -1,0 +1,8 @@
+Write the funniest one-line git commit message an AI coding agent would
+write right before breaking production on a Friday. It must read like a
+real commit message (starting with a conventional prefix like "feat:"),
+sound like a cheerful, confident AI agent that has no idea disaster is
+coming, carry the Friday end-of-week rush to ship it now, and land the
+joke with a real punchline in a single read. Keep it to one line, well
+under 159 characters, and make the punchline about the agent skipping
+the tests because its own confidence is the test suite.
